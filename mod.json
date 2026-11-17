@@ -1,0 +1,9 @@
+{
+  "$schema": "https://rq-modding.github.io/rq-modding-docs/schemas/mod.schema.json",
+  "id": "rocky-chunk-indicator",
+  "name": "Rocky Chunk Indicator",
+  "author": "Moru Zerinho6",
+  "version": "1.0.0",
+  "loader": "2.58.0",
+  "priority": 0
+}
