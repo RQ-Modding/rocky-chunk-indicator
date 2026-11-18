@@ -3,6 +3,20 @@
 Shows on each character's status page whether they already had a Rocky Chunk's effect, and asks
 before another chunk goes on a character who did.
 
+## Showcase
+
+### Rance with no Rock On Effect
+
+<img width="366" height="383" alt="image" src="https://github.com/user-attachments/assets/0a02e0d1-b1c6-4d95-9531-e505b805cfef" />
+
+### Alkanese with Rock On Effect
+
+<img width="425" height="377" alt="image" src="https://github.com/user-attachments/assets/84a6f087-bf46-4a7b-afbf-35d336eb16f3" />
+
+### Description on Hover
+
+<img width="465" height="102" alt="image" src="https://github.com/user-attachments/assets/f0e996cb-eb89-4a06-a545-05a5dadcb8c8" />
+
 ## What it changes
 
 A Rocky Chunk lets its wearer learn Rock On, which gives 10 skill points, once per character: a
