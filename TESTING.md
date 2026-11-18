@@ -46,9 +46,9 @@ No keys or settings. Do not invent other controls.
 `consumed(iic)`, `tip(iic)` and `question(iic)` (the texts), and `mark` (the `rq.gamebutton`
 handle).
 
-## Test Lab
+## Tested in the game
 
-`rocky-chunk` (with this mod installed): the loader's left spot and `icon` function, the
+The Test Lab's scenario `rocky-chunk` (with this mod installed): the loader's left spot and `icon` function, the
 `rq.item.on_try_equip` places and what stops the attempt first, then the mod: both looks of the
 mark and its tips, the question on the vault's drag and the status page's pick with No and Yes, no
 question without the flag.
